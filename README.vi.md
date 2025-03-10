@@ -11,14 +11,14 @@ Dự án Router-OS Script (Mikrotik) cho Crossian.
 >Nếu bạn có bất kỳ ý tưởng kịch bản nào hoặc chỉ muốn chia sẻ ý kiến ​​của mình, bạn có thể [Thảo luận](https://github.com/quachdoduy/ROS-Scripts/discussions/) hoặc mở [Vấn đề](https://github.com/quachdoduy/ROS-Scripts/issues) nếu bạn tìm thấy bất kỳ lỗi nào.
 
 # MỤC LỤC
-- [Table of Contents](#table-of-contents)
-- [Original idea](#original-idea)
-- [Features](#features)
-- [System requirements](#system-requirements)
-- [Initial setup](#initial-setup)
-    - [Pre-Installation](#pre-installation)
-    - [Installation](#installation)
-- [Next Stage](#next-stage)
+- [Mục lụclục](#mục-lục)
+- [Ý tưởng ban đầu](#ý-tưởng-ban-đầu)
+- [Đặc trưng](#đặc-trưng)
+- [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+- [Thiết lập ban đầu](#thiết-lập-ban-đầu)
+    - [Trước khi cài đặt](#trước-khi-cài-đặt)
+    - [Cài đặt](#cài-đặt)
+- [Giai đoạn tiếp theo](#giai-đoạn-tiếp-theo)
 
 # Ý tưởng ban đầu
 - Tự động giám sát các kết nối WAN của thiết bị và gửi cảnh báo đến Telegram và Slack.
