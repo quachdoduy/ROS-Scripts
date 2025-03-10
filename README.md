@@ -11,5 +11,4 @@ Router-OS Script (Mikrotik) project for Crossian.
 >If you have any script ideas or just want to share your opinion, you can [Discuss here](https://github.com/quachdoduy/ROS-Scripts/discussions/), or open an [Issue](https://github.com/quachdoduy/ROS-Scripts/issues) if you find any errors.
 
 # TABLE OF CONTENTS
-    - [TOC](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#TOC)
-    
+    - [Table of Contents:](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#table-of-contents)
