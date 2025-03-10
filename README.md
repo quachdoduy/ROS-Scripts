@@ -17,6 +17,8 @@ Router-OS Script (Mikrotik) project for Crossian.
 - [System requirements](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#system-requirements)
 - [Initial setup](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#initial-setup)
     - [Pre-Installation](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#pre-installation)
+    - [Installation](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#installation)
+- [Next Stage](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#next-stage)
 
 # Original idea
 - Automate the monitoring of WAN connections of the device and send alerts to Telegram and Slack.
