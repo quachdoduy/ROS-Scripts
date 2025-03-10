@@ -14,8 +14,8 @@ Router-OS Script (Mikrotik) project for Crossian.
 - [Table of Contents](#table-of-contents)
 - [Original idea](#original-idea)
 - [Features](#features)
-- [System requirements](#system-requirements)
-- [Initial setup](#initial-setup)
+- [System Requirements](#system-requirements)
+- [Initial Setup](#initial-setup)
     - [Pre-Installation](#pre-installation)
     - [Installation](#installation)
 - [Next Stage](#next-stage)
@@ -48,10 +48,10 @@ Router-OS Script (Mikrotik) project for Crossian.
     - Backs up the device configuration.
     - Reboots the device.
 
-# System requirements
+# System Requirements
 1. Software
     - RouterOS
-    The script was written for RouterOS'7.n' (specifically RouterOS'7.15.2'). Ensure backward compatibility with RouterOS'6.n' and lower versions.
+    The script was written for RouterOS `7.n` (specifically RouterOS `7.15.2`). Ensure backward compatibility with RouterOS `6.n` and lower versions.
     - The script was written in Microsoft's Visual Code with compatible extensions.
         - [Visual Code](https://code.visualstudio.com/download)
         - [Extensions](https://github.com/devMikeUA/vscode_mikrotik_routeros_script)
@@ -59,9 +59,9 @@ Router-OS Script (Mikrotik) project for Crossian.
 The script may increase in size with updates. Be cautious with devices having 16MB or lower storage.
 *Configuration files may grow over time, so regular monitoring is recommended.*
 
-# Initial setup
+# Initial Setup
 ## Pre-Installation
-Information to prepare before installation.
+*Information to prepare before installation.*
 1. **Organization Short Name**: Stored in the variable **varCustomName**
     - Example: `:global varCustomName "Customer ABC XYZ";`
 2. **Notification Methods**: Stored in the array **arrSendNotify**
@@ -86,9 +86,15 @@ Information to prepare before installation.
         - Example: `:global arrTemperatureID {"7";"0";"1"};`
 ## Installation
 - Configure basic network settings on the router with a chosen IP, ensuring file transfer capability.
-- Upload **InitialSetup.rsc** and import it using: `/import InitialSetup.rsc`
+- Upload **InitialSetup.rsc** and import it using:
+```bash
+/import InitialSetup.rsc;
+```
 - Update and save the configurations in the **GlobalConfig** script.
-- Execute the script to update environment variables: `/system/script/run GlobalConfig;`
+- Execute the script to update environment variables:
+```bash
+/system/script/run GlobalConfig;
+```
 
 # Next Stage
 - **First-Run Check Function**: Ensures a status check after each reboot. **(Done: 10/Feb/2025)**
