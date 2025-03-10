@@ -11,7 +11,12 @@ Router-OS Script (Mikrotik) project for Crossian.
 >If you have any script ideas or just want to share your opinion, you can [Discuss here](https://github.com/quachdoduy/ROS-Scripts/discussions/), or open an [Issue](https://github.com/quachdoduy/ROS-Scripts/issues) if you find any errors.
 
 # TABLE OF CONTENTS
-    - [Table of Contents:](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#table-of-contents)
+- [Table of Contents](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#table-of-contents)
+- [Original idea](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#original-idea)
+- [Features](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#features)
+- [System requirements](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#system-requirements)
+- [Initial setup](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#initial-setup)
+    - [Pre-Installation](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#pre-installation)
 
 # Original idea
 - Automate the monitoring of WAN connections of the device and send alerts to Telegram and Slack.
@@ -53,7 +58,7 @@ The script may increase in size with updates. Be cautious with devices having 16
 *Configuration files may grow over time, so regular monitoring is recommended.*
 
 # Initial setup
-## Get ready
+## Pre-Installation
 Information to prepare before installation.
 1. **Organization Short Name**: Stored in the variable **varCustomName**
     - Example: `:global varCustomName "Customer ABC XYZ";`
