@@ -11,14 +11,14 @@ Router-OS Script (Mikrotik) project for Crossian.
 >If you have any script ideas or just want to share your opinion, you can [Discuss here](https://github.com/quachdoduy/ROS-Scripts/discussions/), or open an [Issue](https://github.com/quachdoduy/ROS-Scripts/issues) if you find any errors.
 
 # TABLE OF CONTENTS
-- [Table of Contents](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#table-of-contents)
-- [Original idea](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#original-idea)
-- [Features](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#features)
-- [System requirements](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#system-requirements)
-- [Initial setup](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#initial-setup)
-    - [Pre-Installation](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#pre-installation)
-    - [Installation](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#installation)
-- [Next Stage](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md#next-stage)
+- [Table of Contents](#table-of-contents)
+- [Original idea](#original-idea)
+- [Features](#features)
+- [System requirements](#system-requirements)
+- [Initial setup](#initial-setup)
+    - [Pre-Installation](#pre-installation)
+    - [Installation](#installation)
+- [Next Stage](#next-stage)
 
 # Original idea
 - Automate the monitoring of WAN connections of the device and send alerts to Telegram and Slack.
