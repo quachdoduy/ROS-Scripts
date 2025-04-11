@@ -1,5 +1,5 @@
 # ROS-Scripts
-Dự án Router-OS Script (Mikrotik) cho Crossian.
+Dự án Router-OS Script (Mikrotik).
 
 [![Lang EN](https://img.shields.io/badge/lang-en-yellow)](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md)
 [![Lang VI](https://img.shields.io/badge/lang-vi-green)](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.vi.md)<br/>
