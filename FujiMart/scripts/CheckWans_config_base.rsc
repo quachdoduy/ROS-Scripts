@@ -1,0 +1,2 @@
+:global CustomerName ""
+:global CustomerBranchLocation ""
