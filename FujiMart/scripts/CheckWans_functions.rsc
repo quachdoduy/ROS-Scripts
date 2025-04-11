@@ -6,3 +6,4 @@
     /system script add name=CheckWans_config_base owner=admin policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive source=":global CustomerName \"$CustomerName\"\
         :global CustomerBranchLocation \"$CustomerBranchLocation\""
 }
+
