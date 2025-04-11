@@ -1,5 +1,5 @@
 # ROS-Scripts
-Router-OS Script (Mikrotik) project for Crossian.
+Router-OS Script (Mikrotik) project.
 
 [![Lang EN](https://img.shields.io/badge/lang-en-green)](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.md)
 [![Lang VI](https://img.shields.io/badge/lang-vi-yellow)](https://github.com/quachdoduy/ROS-Scripts/blob/main/README.vi.md)<br/>
