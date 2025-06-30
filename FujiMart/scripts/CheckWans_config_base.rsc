@@ -1,2 +1,2 @@
-:global CustomerName ""
-:global CustomerBranchLocation ""
+:global CustomerName "Company ABC"
+:global CustomerBranchLocation "Sites XYZ"
